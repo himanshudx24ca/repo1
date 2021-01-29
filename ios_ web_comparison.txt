@@ -1,0 +1,20 @@
+Naveo pro missing on ios app login screen
+Organization order is different in ios app and web on select an organization
+ios app crashing on  selecting abb test 8 (old)
+
+
+
+
+
+
+
+both issues
+1.Error messsage on incorrect password for login is in english
+2.Devices detail-> more info  properties not in red in ios
+
+
+
+ios  
+1. on forgot password page
+
+
